@@ -1,5 +1,5 @@
 <!--👋-Banner-->
-<center><img alt="Header" src="https://github.com/MedAmine-Zalila1/MedAmine-Zalila1/blob/main/latest_banner.png?raw=true"/></center>
+<center><img alt="Header" src="https://github.com/MedAmine-Zalila1/MedAmine-Zalila1/blob/main/banner.png?raw=true"/></center>
 
 # 🧑🏻‍💻 Mohamed Amine Zalila
 
