@@ -78,8 +78,6 @@ Please feel free to reach out to me via my LinkedIn profile.
 </tr>
 </table>
 
-<p align="center"><sub>Mohamed Amine Zalila · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
-
 ## Experience
 
 <table>
